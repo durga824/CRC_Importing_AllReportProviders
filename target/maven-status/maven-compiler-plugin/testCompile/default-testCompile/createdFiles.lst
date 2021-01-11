@@ -1,0 +1,14 @@
+com\CRC_PageObjects\ImportingCreditReport_MyFreeScoreNow.class
+com\CRC_PageObjects\AddNewClient_Page.class
+com\CRC_PageObjects\Home_Page.class
+com\CRC_PageObjects\ImportCreditReport_IdentityIq.class
+com\CRC_Helper\AbstractClass.class
+com\CRC_PageObjects\LandingPage.class
+com\CRC_Base\Main_CRC.class
+com\CRC_PageObjects\ClientDeletion.class
+com\CRC_PageObjects\ImportingCreditReport_MyScoreIQ.class
+com\CRC_Helper\TestAssert.class
+com\CRC_PageObjects\ClientDashBoard_Page.class
+com\CRC_PageObjects\ImportCreditReport_SmartCredit.class
+com\CRC_Reading_Values\Reading_Values.class
+com\CRC_PageObjects\ImportCreditReport_PrivacyGuard.class

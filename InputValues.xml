@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<report>
+
+<QaUrl>https://qa.creditrepaircloud.com</QaUrl>
+<LoginUsername>testletter123@yopmail.com</LoginUsername>
+<LoginPassword>Debug@123</LoginPassword>
+<FirstName>Dummy</FirstName>
+<Lastname>Client</Lastname>
+
+<IdIqUsername>daniel@credit-aid.com</IdIqUsername>
+<IdIqPassword>flatop63</IdIqPassword>
+<SecurityWord>3944</SecurityWord>
+
+<SmartCreditUsername>daniel@credit-aid.com</SmartCreditUsername>
+<SmartCreditPassword>flatop63</SmartCreditPassword>
+
+<MyFreescoreUsername>dr@creditrepaircloud.com</MyFreescoreUsername>
+<MyFreescorePassword>flatop63</MyFreescorePassword>
+
+<PrivacyGuardUsername>danielrosen</PrivacyGuardUsername>
+<PrivacyGuardPassword>flatop63</PrivacyGuardPassword>
+
+</report>
